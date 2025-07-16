@@ -1,8 +1,11 @@
 # Retrieval-Augmented Generation (RAG) Project
 
-**_Think it. Build it. bRAG it._ 🚀 bRAGAI's coming soon (🤫)**
+### Important Announcement !! ([BragAI](https://bragai.dev))
 
-**[Join the waitlist](https://bragai.dev/)** for exclusive early access, be among the first to try your AI-powered full-stack development assistant, and transform ideas into production-ready web apps in minutes.
+**BragAI Public Beta Coming Soon** - **[JOIN THE WAITLIST](https://bragai.dev/)** (currently in private beta - contact me for early access)
+
+**Turn ideas into full-stack apps in minutes with BragAI (https://bragai.dev)**
+
 
 ---------------------
 
@@ -221,10 +224,6 @@ After setting up the environment and running the notebooks in sequence, you can:
    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=bragai/brag-langchain&type=Date" />
  </picture>
 </a>
-
-## Upcoming Notebooks
-
-👨🏻‍💻 **[MistralOCR](https://mistral.ai/news/mistral-ocr) + RAG Integration** 
 
 ## Contact
 Do you have questions or want to collaborate? Please open an issue or email Taha Ababou at taha@bragai.dev
